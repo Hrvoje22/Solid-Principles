@@ -1,4 +1,4 @@
-package com.cydeo.solid;
+package com.cydeo;
 
 public class Y implements Z{
 
